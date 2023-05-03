@@ -64,6 +64,7 @@ a {
 .offer-specs {
     display: flex;
     padding-right: 0.5rem;
+    min-width: 120px;
 }
 .offer-spec-label {
     font-weight: 500;
