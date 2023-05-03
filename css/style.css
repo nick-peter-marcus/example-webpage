@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    height: 100%;
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: system-ui;
+    background-color: #f6f8fa;
+}
+a {
+    color: #f6f8fa;
+    text-decoration: none;
+    border: #f6f8fa solid 2px;
+    border-radius: 12px;
+    padding: 8px;
+    margin: 10px;
+}
+#top {
+    background-color: #44546a;
+    color: #f6f8fa;
+    padding: 1rem;
+} 
+#content {
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+#bottom {
+    background-color: #44546a;
+    color: #f6f8fa;
+    margin: auto;
+    padding: 1rem;
+    margin-top: 4rem;
+    text-align: center;
+}
+.head {
+    margin-bottom: 3rem;
+}
+#offers {
+    max-width: 80%;
+    margin: auto;
+}
+.offer {
+    display: flex;
+    margin: auto;
+    margin-top: 1rem;
+    padding: 10px;
+    border: lightgrey solid 2px;
+    border-radius: 0.5rem;
+}
+.offer-text {
+    text-align: left;
+    margin-left: 15px;
+}
+.offer-img {
+    max-width: 120px;
+    max-height: 120px;
+    border-radius: 0.25rem;
+    margin: auto;
+}
+.offer-specs-container {
+    display: flex;
+    flex-direction: row;
+}
+.offer-specs {
+    display: flex;
+    padding-right: 0.5rem;
+}
+.offer-spec-label {
+    font-weight: 500;
+    padding-right: 0.25rem;
+}
+h4 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
