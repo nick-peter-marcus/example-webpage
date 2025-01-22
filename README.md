@@ -2,4 +2,4 @@
 
 This example webpage will initially be used to play around with HTML and CSS, and getting to know Git and GitHub.
 
-Eventually, this site well be launched via GitHub pages to experiment with python scripts detecting changes on websites and sending allerts accordingly.
+Eventually, this site well be launched via GitHub pages to experiment with python scripts detecting changes on websites and sending alerts accordingly.
